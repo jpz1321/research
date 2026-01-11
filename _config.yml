@@ -1,0 +1,15 @@
+title: Research Notes
+description: Independent research on prediction markets, information aggregation, and market-based forecasting systems.
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+show_excerpts: false
+
+plugins: []
+
+exclude:
+  - README.md
+  - .github/
