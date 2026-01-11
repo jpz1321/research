@@ -47,4 +47,4 @@ Attribution is appreciated if referenced or cited elsewhere.
 
 For questions, feedback, or collaboration:
 
-**Email:** your@email.com
+**Email:** joseph@spredd.markets
