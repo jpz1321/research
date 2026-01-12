@@ -1,5 +1,3 @@
-# Research Notes
-
 This repository contains independent research on prediction markets, information aggregation, and market-based forecasting systems.
 
 The work here is intentionally **non-academic**. It is grounded in practical experience building on top of prediction markets, writing long-form research, and studying how market prices function as signals under uncertainty—rather than in formal econometric or statistical modeling.
