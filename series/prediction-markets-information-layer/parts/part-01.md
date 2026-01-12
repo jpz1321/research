@@ -1,5 +1,3 @@
-# Part 1 — From Opinion to Price
-
 **Series:** Prediction Markets as an Information Layer  
 **Status:** Published  
 **Version:** v1.0  
