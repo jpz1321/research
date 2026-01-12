@@ -1,5 +1,3 @@
-# Prediction Markets as an Information Layer
-
 This research series examines prediction markets as a distinct **information layer**—systems that aggregate dispersed belief under incentive constraints and express that aggregation as probabilistic price.
 
 Rather than treating prediction markets as forecasting tools or speculative products, the papers in this series focus on how markets function epistemically: how belief becomes price, how structure shapes signal quality, and how interpretation determines whether markets are useful or misleading.
