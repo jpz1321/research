@@ -30,7 +30,7 @@ Each paper is written as a standalone research note, but together they form a co
 ---
 
 ### Part 3 — Resolution and the Architecture of Trust
-**Status:** In progress  
+**Status:** Planned
 **Focus:** How resolution mechanisms shape what markets can credibly price. Compares centralized resolution (Kalshi's internal teams, AP as source) with decentralized resolution (UMA's Optimistic Oracle, token-holder voting). Examines controversial resolutions, ambiguity pricing, and how trust in outcomes feeds back into pre-resolution trading behavior.
 
 ---
