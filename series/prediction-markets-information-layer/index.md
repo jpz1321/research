@@ -17,7 +17,7 @@ Each paper is written as a standalone research note, but together they form a co
 **Version:** v1.0  
 **Focus:** Foundational framing of prediction markets as an information layer rather than a forecasting tool. Introduces belief equilibria, the survival filter that makes markets informative, and why accuracy is the wrong first question. Uses the 2024 U.S. presidential election to illustrate why markets and polls can both be "correct" while appearing to contradict each other.
 
-- [Read abstract](part-01/index.md)  
+- [Read abstract](parts/part-01.md)  
 - [Download PDF](assets/pdf/PM_information_layer_part_01_v1.0.pdf)
 
 ---
