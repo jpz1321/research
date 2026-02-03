@@ -15,15 +15,16 @@ Each paper is written as a standalone research note, but together they form a co
 **Version:** v1.0  
 **Focus:** Foundational framing of prediction markets as an information layer rather than a forecasting tool. Introduces belief equilibria, the survival filter that makes markets informative, and why accuracy is the wrong first question. Uses the 2024 U.S. presidential election to illustrate why markets and polls can both be "correct" while appearing to contradict each other.
 
-- [Read abstract](parts/part-01.md)  
 - [Download PDF](assets/pdf/PM_information_layer_part_01_v1.0.pdf)
 
 ---
 
 ### Part 2 — When Market Structure Becomes Meaning
-**Status:** In progress  
+**Status:** Published 
 **Version:** v1.0  
 **Focus:** How different prediction market platforms produce meaningfully different signals. Compares Kalshi and Polymarket across fees, position limits, resolution mechanisms, and participation constraints. Uses 2024 election data—including the Théo position concentration case and the Clinton/Huang Vanderbilt study—to show why price divergence between platforms often reflects structural differences rather than inefficiency.
+
+- [Download PDF](assets/pdf/PM_information_layer_part_02_v1.0.pdf)
 
 ---
 
